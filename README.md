@@ -1,4 +1,4 @@
 fizteh
 ======
 
-actually really simple institute site
+This is just my initial work to creating best ever site.
