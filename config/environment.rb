@@ -30,7 +30,7 @@ Radiant::Initializer.run do |config|
   # no regular words or you'll be exposed to dictionary attacks.
   config.action_controller.session = {
     :key => '_fizteh_session',
-    :secret      => '659853df7d181a7a6c8d27a2dd4346ef3533dc72'
+    :secret      => '2bdc648c481f2ced95da445d86241990b619e4ca'
   }
 
   # Comment out this line if you want to turn off all caching, or

@@ -21,10 +21,10 @@ gem "compass-rails", "~> 1.0.3"
 # gem "sqlite3", "~> 1.3.5"
 
 # To use MySQL
-# gem "mysql", "~> 2.8.1"
+gem "mysql", "~> 2.8.1"
 
 # Postgres
-gem "activerecord-postgresql-adapter"
+# gem "pg", "~> 0.11.0"
 
 # IBM DB2
 # gem "db2", "~> 2.6.2"
